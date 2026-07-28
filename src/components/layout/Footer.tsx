@@ -67,7 +67,7 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-3 pt-1">
               <a
-                href="https://instagram.com/"
+                href="https://www.instagram.com/base_designlab/"
                 target="_blank"
                 rel="noreferrer"
                 className={socialBtnClass}
@@ -77,7 +77,7 @@ export default function Footer() {
                 <InstagramIcon className="w-4 h-4" />
               </a>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/basedesignlab/"
                 target="_blank"
                 rel="noreferrer"
                 className={socialBtnClass}
