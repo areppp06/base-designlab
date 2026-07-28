@@ -5,12 +5,12 @@ import LoovenBentoGrid from '@/components/ui/bento'
 import { PortfolioGallery } from '@/components/ui/portfolio-gallery'
 import { portfolioPreviewImages } from '@/data/gallery-images'
 
-import hero1 from '@/assets/hero/hero_1.png'
-import hero2 from '@/assets/hero/hero_2.png'
-import hero3 from '@/assets/hero/hero_3.png'
-import hero4 from '@/assets/hero/hero_4.png'
-import hero5 from '@/assets/hero/hero_5.png'
-import hero6 from '@/assets/hero/hero_6.png'
+import hero1 from '@/assets/hero/hero_1.jpg'
+import hero2 from '@/assets/hero/hero_2.jpg'
+import hero3 from '@/assets/hero/hero_3.jpg'
+import hero4 from '@/assets/hero/hero_4.jpg'
+import hero5 from '@/assets/hero/hero_5.jpg'
+import hero6 from '@/assets/hero/hero_6.jpg'
 
 const heroImages = [
   { src: hero1, alt: 'BASE DESIGN LAB project 1' },
